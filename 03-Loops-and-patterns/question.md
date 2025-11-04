@@ -174,7 +174,7 @@ for(let i = 1; i <=row; i++) {
 
 ### 6. Print Hollow Pyramid Pattern
 
-- **Input :** <-code>Rows = 5</code>
+- **Input :** <code>Rows = 5</code>
 
 - **Output :**
 
